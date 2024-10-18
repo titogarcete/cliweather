@@ -65,6 +65,3 @@ python script.py <ciudad> <formato> [--guardar]
 
 El script captura errores relacionados con la conexión y solicitudes HTTP, mostrando mensajes apropiados si algo sale mal.
 
----
-
-Este README proporciona una guía clara para configurar y utilizar el script sin entrar en detalles innecesarios.
