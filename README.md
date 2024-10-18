@@ -1,7 +1,3 @@
-Aquí tienes un `README.txt` con un tono más natural y conciso:
-
----
-
 # Clima API - Script CLI
 
 Este script permite consultar el clima de una ciudad específica usando la API de OpenWeatherMap y mostrar los resultados en varios formatos: JSON, texto o CSV. Además, incluye la opción de guardar los datos en un archivo.
